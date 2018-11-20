@@ -46,5 +46,17 @@
   "photo": {
     "dataSource": "db",
     "public": true
+  },
+  "invitation": {
+    "dataSource": "db",
+    "public": true
+  },
+  "guest": {
+    "dataSource": "db",
+    "public": true
+  },
+  "gift": {
+    "dataSource": "db",
+    "public": true
   }
 }

@@ -1,0 +1,22 @@
+{
+  "name": "invitation",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "accepted": {
+      "type": "boolean",
+      "default": false
+    },
+    "refused": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
