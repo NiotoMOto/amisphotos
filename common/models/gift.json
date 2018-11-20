@@ -20,10 +20,6 @@
     "name": {
       "type": "string",
       "required": true
-    },
-    "sex": {
-      "type": "string",
-      "required": true
     }
 
   },
