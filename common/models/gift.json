@@ -12,11 +12,6 @@
       "required": true,
       "default": false
     },
-    "hasSelect": {
-      "type": "boolean",
-      "required": true,
-      "default": false
-    },
     "name": {
       "type": "string",
       "required": true
